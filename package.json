@@ -1,0 +1,23 @@
+{
+  "name": "node-with-express",
+  "version": "1.0.0",
+  "description": "express tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herrld/NodeWithExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herrld/NodeWithExpress/issues"
+  },
+  "homepage": "https://github.com/herrld/NodeWithExpress#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

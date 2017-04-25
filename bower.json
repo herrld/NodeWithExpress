@@ -1,0 +1,21 @@
+{
+  "name": "node-with-express",
+  "description": "express tutorial",
+  "main": "app.js",
+  "authors": [
+    "herrld <lee.herring@enspiresoftware.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/herrld/NodeWithExpress",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
